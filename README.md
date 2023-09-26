@@ -4,4 +4,5 @@ Graduando em Sistemas de Informação pela Universidade Estácio de Sá, se espe
 
 # Tech Stack:
 
+[![Leanndro GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
